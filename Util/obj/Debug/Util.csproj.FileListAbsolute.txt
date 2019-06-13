@@ -1,0 +1,6 @@
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\bin\Debug\Util.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\bin\Debug\Util.pdb
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\obj\Debug\Util.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Util\obj\Debug\Util.pdb
