@@ -1,0 +1,10 @@
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Data.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Data.pdb
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Model.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Util.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Model.pdb
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\bin\Debug\Util.pdb
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\obj\Debug\Data.dll
+C:\Users\logatti.FIAR\source\repos\ProjEmprestimo\Data\obj\Debug\Data.pdb
